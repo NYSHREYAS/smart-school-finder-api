@@ -14,7 +14,7 @@ This project demonstrates backend API development with real-world functionality,
 
 * Add schools with latitude and longitude coordinates
 * Retrieve schools sorted by distance from a given location
-* Accurate distance calculation using the Haversine formula
+* Accurate distance calculation using the Haversine formula..
 * Clean and modular backend architecture
 * RESTful API design
 
@@ -109,6 +109,7 @@ This API can be deployed using:
 * Railway (MySQL database hosting)
 
 ---
+fix deployment issue
 
 ## Author
 
